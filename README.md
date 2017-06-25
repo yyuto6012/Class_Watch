@@ -13,6 +13,10 @@ Things you may want to cover:
 
 * Database creation
 
+## class_watch
+・ruby 2.3.1
+・rails 5.0.1
+
 * Database initialization
 
 * How to run the test suite
